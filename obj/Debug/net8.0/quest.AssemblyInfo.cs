@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2184a5f8818df070ab5970fb02b670fcaed7756")]
 [assembly: System.Reflection.AssemblyProductAttribute("quest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
