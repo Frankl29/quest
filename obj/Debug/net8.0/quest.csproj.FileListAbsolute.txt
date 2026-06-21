@@ -1,0 +1,14 @@
+/home/frankl/csstudy/quest/bin/Debug/net8.0/quest
+/home/frankl/csstudy/quest/bin/Debug/net8.0/quest.deps.json
+/home/frankl/csstudy/quest/bin/Debug/net8.0/quest.runtimeconfig.json
+/home/frankl/csstudy/quest/bin/Debug/net8.0/quest.dll
+/home/frankl/csstudy/quest/bin/Debug/net8.0/quest.pdb
+/home/frankl/csstudy/quest/obj/Debug/net8.0/quest.GeneratedMSBuildEditorConfig.editorconfig
+/home/frankl/csstudy/quest/obj/Debug/net8.0/quest.AssemblyInfoInputs.cache
+/home/frankl/csstudy/quest/obj/Debug/net8.0/quest.AssemblyInfo.cs
+/home/frankl/csstudy/quest/obj/Debug/net8.0/quest.csproj.CoreCompileInputs.cache
+/home/frankl/csstudy/quest/obj/Debug/net8.0/quest.dll
+/home/frankl/csstudy/quest/obj/Debug/net8.0/refint/quest.dll
+/home/frankl/csstudy/quest/obj/Debug/net8.0/quest.pdb
+/home/frankl/csstudy/quest/obj/Debug/net8.0/quest.genruntimeconfig.cache
+/home/frankl/csstudy/quest/obj/Debug/net8.0/ref/quest.dll
